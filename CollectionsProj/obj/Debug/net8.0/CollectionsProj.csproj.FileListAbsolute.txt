@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\bin\Debug\net8.0\CollectionsProj.exe
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\bin\Debug\net8.0\CollectionsProj.deps.json
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\bin\Debug\net8.0\CollectionsProj.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\bin\Debug\net8.0\CollectionsProj.dll
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\bin\Debug\net8.0\CollectionsProj.pdb
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.dll
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\refint\CollectionsProj.dll
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.pdb
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\CollectionsProj.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\CollectionsProj\CollectionsProj\obj\Debug\net8.0\ref\CollectionsProj.dll
